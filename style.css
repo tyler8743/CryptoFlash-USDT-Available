@@ -1,0 +1,43 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #0c0c0c;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 15px;
+}
+
+h1, h2, h3 {
+    margin: 10px 0;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.section {
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.features {
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+a {
+    color: #00eaff;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+}
+
+.container {
+    max-width: 650px;
+    margin: auto;
+}
